@@ -1,2 +1,2 @@
 # Mini-Game-js
-mini-game-js.netlify.app
+https://mini-game-js.netlify.app
